@@ -1,2 +1,4 @@
 # PredicateBuilder
-The predicate builder that simplify creating NSPredicate objects
+
+## The predicate builder that simplify creating NSPredicate objects.
+
